@@ -2,7 +2,7 @@
   "name": "row-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://eo-DS.github.io/react-movies",
+  "homepage": "http://neo-DS.github.io/react-movies",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -23,7 +23,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +42,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neo-DS/react-movieDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neo-DS/react-movieDB/issues"
+  },
+  "description": ""
 }
