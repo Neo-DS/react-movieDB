@@ -2,7 +2,7 @@
   "name": "row-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://neo-DS.github.io/react-movies",
+  "homepage": "http://neo-DS.github.io/react-movieDB",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
